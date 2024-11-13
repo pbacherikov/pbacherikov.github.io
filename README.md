@@ -5,9 +5,9 @@ I have a MSc in Financial Economics from the <a href="https://icef.hse.ru/en/ma/
 ### Job market Paper
 
 **Nomadic Pastoralism, Colonization and Conflict in Central Asia** <br />
-<small>[ <a href="#/" onclick="visib('DFEL')">Abstract</a> | [Draft][Draft_JMP] ]
+<small>[ <a href="#/" onclick="visib('colonislism')" style="color: red; text-decoration: underline;text-decoration-style: dotted;">Abstract</a> | [Draft][Draft_JMP] ]
 
-<div id="DFEL" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="colonialism" style="display: none; text-align: justify; line-height: 1.2" ><small>
 This paper studies how a sharp exogenous increase in land pressure resulting from massive land expropriations and in-migrations of peasant-settlers organized by the Russian colonial authorities in the late 19th—early 20th century affected social structures and economic activities of indigenous nomadic pastoralists in Central Asia. I assemble a novel household-level dataset constructed from two waves of Russian colonial censuses of nomadic population in 1896-1901 and 1908-1913 combined with hand-collected data from archival plot-level annual land expropriation reports that, together with landuse-based expropriation rule, allow me to use fuzzy regression discontinuity design to show that those nomadic households that experienced expropriations between ca. 1897 and ca. 1908 were more likely to partially sedentarize and intensify the use of the most fertile lands they were left with. Within extended households and beyond, an increase in land pressure facilitated the development of more individualized ownership and use rights for land, as well as gave rise to contractual labor market and rental market for land. Such a shift from pastoralism to semi-sedentary mode of production rapidly reduced the importance of top-level clan and tribe institutions traditionally regulating the use of common pastures. Instead, lower level sub-clan self-identification became more salient, households started to invest more in agricultural tools and construction of permanent buildings.
 </small><br><br/></div>
 
