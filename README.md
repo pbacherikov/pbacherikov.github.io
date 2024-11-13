@@ -12,3 +12,18 @@ This paper studies how a sharp exogenous increase in land pressure resulting fro
 </small><br><br/></div>
 
 [Draft_JMP]:{{ site.baseurl }}{% link pdfs/pbacherikov_colonialism_JMP.pdf %}
+
+
+[//]: This java script is the button to show abstract
+ <script>
+  function visib(id) {
+   var x = document.getElementById(id);
+   if (x.style.display === "block") {
+     x.style.display = "none";
+   } else {
+     x.style.display = "block";
+   }
+ }
+ </script>
+
+ [//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
