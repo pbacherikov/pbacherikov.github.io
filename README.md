@@ -2,9 +2,9 @@ I am a PhD candidate at UC Berkeley, in the <a href="https://haas.berkeley.edu/b
 
 I have a MSc in Financial Economics from the <a href="https://icef.hse.ru/en/ma/" style="color: red;">International College of Economics and Finance</a> at the Higher School of Economics and a BA in Economics from the <a href="https://www.nes.ru/bachelor-of-arts-in-economics/&lang=en" style="color: red;">HSE-NES joint program in Economics</a>.
 
-<h1 style="font-size: 150%; text-decoration: underline;">Job market Paper</h1>
+<b style="font-size: 150%; text-decoration: underline;">Job market Paper</b>
 
-<h2 style="font-size: 125%; color: black;">Nomadic Pastoralism, Colonization and Conflict in Central Asia</h2> <br/>
+<b style="font-size: 125%; color: black;">Nomadic Pastoralism, Colonization and Conflict in Central Asia</b> <br/>
 [ <a href="#/" onclick="visib('colonialism')" style="color: red;">Abstract</a> ][ <a href="https://github.com/pbacherikov/pbacherikov.github.io/blob/main/pdfs/pbacherikov_colonialism_JMP.pdf" style="color: red;">Draft_JMP</a> ]
 
 <div id="colonialism" style="display: none; text-align: justify; line-height: 1.2" ><small>
