@@ -4,7 +4,7 @@ I have a MSc in Financial Economics from the <a href="https://icef.hse.ru/en/ma/
 
 <b style="font-size: 125%; color: black; text-decoration: underline;">Job market Paper</b>
 
-<p style="font-size: 105%; color: black;">Nomadic Pastoralism, Colonization and Conflict in Central Asia</p> <br/>
+<a style="font-size: 105%; color: black;">Nomadic Pastoralism, Colonization and Conflict in Central Asia</a><br/>
 [ <a href="#/" onclick="visib('colonialism')" style="color: red;">Abstract</a> ][ <a href="https://github.com/pbacherikov/pbacherikov.github.io/blob/main/pdfs/pbacherikov_colonialism_JMP.pdf" style="color: red;">Draft_JMP</a> ]
 
 <div id="colonialism" style="display: none; text-align: justify; line-height: 1.2" ><small>
