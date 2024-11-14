@@ -1,4 +1,4 @@
-I am a PhD candidate at UC Berkeley, in the <a href="https://haas.berkeley.edu/bpp/" style="color: red;">Business and Public Policy group</a> at the Haas School of Business. I hold MSc in Financial Economics from <a href="https://icef.hse.ru/en/ma/" style="color: red;">HSE-ICEF</a> and a BA in Economics from <a href="https://www.nes.ru/bachelor-of-arts-in-economics/&lang=en" style="color: red;">HSE-NES joint program in Economics</a>.
+I am a PhD candidate at UC Berkeley, in the <a href="https://haas.berkeley.edu/bpp/" style="color: red;">Business and Public Policy group</a> at the Haas School of Business. I hold MSc in Financial Economics from <a href="https://icef.hse.ru/en/ma/" style="color: red;">HSE-ICEF</a> and BA in Economics from <a href="https://www.nes.ru/bachelor-of-arts-in-economics/&lang=en" style="color: red;">HSE-NES joint program in Economics</a>.
 
 My research spans political economy, economic history, development and organizational economics. I am on the 2024–25 job market.
 
