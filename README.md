@@ -20,7 +20,7 @@ Feudalism was the dominant system of land ownership throughout medieval Europe, 
 
 <b style="font-size: 125%; color: black;">Works in Progress</b>
 
-<bdi style="font-size: 105%; color: black;">Political Economy of Usury Restrictions in Medieval Europe, 1200–1517</bdi>
+<bdi style="font-size: 105%; color: black;">Political Economy of Usury Restrictions in Medieval Europe, 1200–1517</bdi><br/>
 
 <bdi style="font-size: 105%; color: black;">Serfs into Citizens: Enfranchisement, Local Public Goods, and Nation-Building in Congress Poland</bdi>
 
