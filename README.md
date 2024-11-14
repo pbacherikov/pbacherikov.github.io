@@ -4,7 +4,7 @@ I have a MSc in Financial Economics from the <a href="https://icef.hse.ru/en/ma/
 
 <b style="font-size: 125%; color: black; text-decoration: underline;">Job market Paper</b>
 
-<bdi style="font-size: 105%; color: black;">Nomadic Pastoralism, Colonization and Conflict in Central Asia</bdi><br/>
+<bdi style="font-size: 105%; color: black;">Nomadic Pastoralism, Colonization and Conflict in Central Asia</bdi>
 [ <a href="#/" onclick="visib('colonialism')" style="color: red;">Abstract</a> ][ <a href="https://pbacherikov.github.io/pdfs/pbacherikov_colonialism_JMP.pdf" style="color: red;">Draft_JMP</a> ]
 
 <div id="colonialism" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -12,7 +12,7 @@ This paper studies how a sharp exogenous increase in land pressure resulting fro
 
 <b style="font-size: 125%; color: black;">Working Papers</b>
 
-<bdi style="font-size: 105%; color: black;">The Impact of Feudalism on Long-Run Development in Russia</bdi><br/>
+<bdi style="font-size: 105%; color: black;">The Impact of Feudalism on Long-Run Development in Russia</bdi>
 [ <a href="#/" onclick="visib('feudalism')" style="color: red;">Abstract</a> ][ <b>Draft coming soon</b> ]
 
 <div id="feudalism" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -20,7 +20,7 @@ Feudalism was the dominant system of land ownership throughout medieval Europe, 
 
 <b style="font-size: 125%; color: black;">Works in Progress</b>
 
-<bdi style="font-size: 105%; color: black;">Political Economy of Usury Restrictions in Medieval Europe, 1200–1517</bdi><br/>
+<bdi style="font-size: 105%; color: black;">Political Economy of Usury Restrictions in Medieval Europe, 1200–1517</bdi>
 
 <bdi style="font-size: 105%; color: black;">Serfs into Citizens: Enfranchisement, Local Public Goods, and Nation-Building in Congress Poland</bdi>
 
