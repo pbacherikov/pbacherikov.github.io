@@ -20,6 +20,8 @@ Feudalism was the dominant system of land ownership throughout medieval Europe, 
 
 <b style="font-size: 125%; color: black;">Works in Progress</b>
 
+<bdi style="font-size: 105%; color: black;">The Dominion Lands Act of 1872 and Long-Term Development of Canadian Prairies</bdi><hr style="height:2.5px; visibility:hidden;" />
+<bdi style="font-size: 105%; color: black;">The Wheeler-Howard Act of 1934, Tribal Property Rights and Productivity on American Reservations</bdi><hr style="height:2.5px; visibility:hidden;" />
 <bdi style="font-size: 105%; color: black;">Political Economy of Usury Restrictions in Medieval Europe, 1200–1517</bdi><hr style="height:2.5px; visibility:hidden;" />
 <bdi style="font-size: 105%; color: black;">Serfs into Citizens: Enfranchisement, Local Public Goods, and Nation-Building in Congress Poland</bdi>
 
