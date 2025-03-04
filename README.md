@@ -3,9 +3,10 @@
 <bdi style="font-size: 105%; color: black;">Nomadic Pastoralism, Colonization and Conflict in Central Asia</bdi>
 
 <details>
-   <summary style="margin-top: 0em; cursor: pointer; color: red;">Abstract</summary>[ <a href="https://pbacherikov.github.io/pdfs/pbacherikov_colonialism_JMP.pdf" style="color: red;">Draft_JMP</a> ]
+   <summary style="margin-top: 0em; cursor: pointer; color: red;">Abstract</summary>
      <p class="notice" style="margin-top:0 !important"><small>
       This paper studies how a sharp exogenous increase in land pressure resulting from massive land expropriations and in-migrations of peasant-settlers organized by the Russian colonial authorities in the late 19th—early 20th century affected social structures and economic activities of indigenous nomadic pastoralists in Central Asia. I assemble a novel household-level dataset constructed from two waves of Russian colonial censuses of nomadic population in 1896-1901 and 1908-1913 combined with hand-collected data from archival plot-level annual land expropriation reports that, together with landuse-based expropriation rule, allow me to use fuzzy regression discontinuity design to show that those nomadic households that experienced expropriations between ca. 1897 and ca. 1908 were more likely to partially sedentarize and intensify the use of the most fertile lands they were left with. Within extended households and beyond, an increase in land pressure facilitated the development of more individualized ownership and use rights for land, as well as gave rise to contractual labor market and rental market for land. Such a shift from pastoralism to semi-sedentary mode of production rapidly reduced the importance of top-level clan and tribe institutions traditionally regulating the use of common pastures. Instead, lower level sub-clan self-identification became more salient, households started to invest more in agricultural tools and construction of permanent buildings.</small></p>
+   [ <a href="https://pbacherikov.github.io/pdfs/pbacherikov_colonialism_JMP.pdf" style="color: red;">Draft_JMP</a> ]
 </details>
 
 [ <a href="#/" onclick="visib('colonialism')" style="color: red;">Abstract</a> ][ <a href="https://pbacherikov.github.io/pdfs/pbacherikov_colonialism_JMP.pdf" style="color: red;">Draft_JMP</a> ]
