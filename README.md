@@ -1,6 +1,6 @@
 ## <bdi style="font-size: 105%; color: black;">Job Market Paper</bdi>
 
--"Nomadic Pastoralism, Colonization and Conflict in Central Asia"<br>
+-<bdi style="font-size: 105%; color: black;">"Nomadic Pastoralism, Colonization and Conflict in Central Asia"</bdi><br>
 [ <a href="https://pbacherikov.github.io/pdfs/pbacherikov_colonialism_JMP.pdf" style="color: red;">Draft_JMP</a> ]
 
 <details>
@@ -11,7 +11,7 @@
 
 ## <bdi style="font-size: 105%; color: black;">Working Papers</bdi>
 
--"The Impact of Feudalism on Long-Run Development in Russia"<br>
+-<bdi style="font-size: 105%; color: black;">"The Impact of Feudalism on Long-Run Development in Russia"</bdi><br>
 [ <a href="https://pbacherikov.github.io/pdfs/pbacherikov_feudalism.pdf" style="color: red;">Draft</a> ]
 
 <details>
@@ -22,7 +22,7 @@
 
 ## <bdi style="font-size: 105%; color: black;">Works in Progress</bdi>
 
--"The Dominion Lands Act of 1872 and Long-Term Development of Canadian Prairies"
+-<bdi style="font-size: 105%; color: black;">"The Dominion Lands Act of 1872 and Long-Term Development of Canadian Prairies"<bdi>
 
 <details>
    <summary style="margin-top: -1.3em; cursor: pointer; color: red;">Abstract</summary>
@@ -30,7 +30,7 @@
         This study examines the long-run effects of the 1872 Canadian Dominion Lands Act using a spatial regression discontinuity design and an instrumental variables strategy that exploit quasi-random variation in initial checkerboard land allocations scheme stemming from the Dominion Land Survey. Using multiple plot-level data sources, the paper documents who acquired land through homesteading, direct purchase, military warrants, railroad grants, preemption, and resale, as well as the types of land chosen and farming practices. The results show that areas with greater historical exposure to homesteading are poorer and more rural today. This effect is not solely driven by urbanization differences: even cities in historically homesteading areas exhibit lower development levels and reduced non-agricultural productivity. In contrast, areas initially allocated to railroads have higher present-day land values, greater fixed capital investment, and they ended up transitioning out of agriculture at a higher speed—possibly because larger land concentration facilitated industrial investment. These findings suggest that extensive homesteading constrained the growth of non-agricultural sectors and limited the benefits of agglomeration.</small></p>
 </details><br>
 
--"The Wheeler-Howard Act of 1934, Tribal Property Rights and Productivity on American Reservations"
+-<bdi style="font-size: 105%; color: black;">"The Wheeler-Howard Act of 1934, Tribal Property Rights and Productivity on American Reservations"</bdi>
 
 <details>
    <summary style="margin-top: -1.3em; cursor: pointer; color: red;">Abstract</summary>
