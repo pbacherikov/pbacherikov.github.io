@@ -1,6 +1,6 @@
 ## <bdi style="font-size: 105%; color: black;">Job Market Paper</bdi>
 
-<bdi style="font-size: 105%; color: black;">"Nomadic Pastoralism, Colonization and Conflict in Central Asia"</bdi><br>
+<bdi style="font-size: 105%; color: black;">"Nomadic Pastoralism, Colonization and Conflict in Central Asia"</bdi>
 [ <a href="https://pbacherikov.github.io/pdfs/pbacherikov_colonialism_JMP.pdf" style="color: red;">Draft_JMP</a> ]
 
 <details>
@@ -11,7 +11,7 @@
 
 ## <bdi style="font-size: 105%; color: black;">Working Papers</bdi>
 
-<bdi style="font-size: 105%; color: black;">"The Impact of Feudalism on Long-Run Development in Russia"</bdi><br>
+<bdi style="font-size: 105%; color: black;">"The Impact of Feudalism on Long-Run Development in Russia"</bdi>
 [ <a href="https://pbacherikov.github.io/pdfs/pbacherikov_feudalism.pdf" style="color: red;">Draft</a> ]
 
 <details>
