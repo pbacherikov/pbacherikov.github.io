@@ -1,7 +1,7 @@
 <b style="font-size: 125%; color: black; text-decoration: underline;">Job market Paper</b>
 
-[ <a href="https://pbacherikov.github.io/pdfs/pbacherikov_colonialism_JMP.pdf" style="color: red;">Draft_JMP</a> ]<bdi style="font-size: 105%; color: black;">Nomadic Pastoralism, Colonization and Conflict in Central Asia</bdi>
-
+<bdi style="font-size: 105%; color: black;">Nomadic Pastoralism, Colonization and Conflict in Central Asia</bdi>
+[ <a href="https://pbacherikov.github.io/pdfs/pbacherikov_colonialism_JMP.pdf" style="color: red;">Draft_JMP</a> ]
 <details>
    <summary style="margin-top: 0em; cursor: pointer; color: red;">Abstract</summary>
      <p class="notice" style="margin-top:0 !important"><small>
